@@ -1,5 +1,7 @@
 # Flight-Fare-Prediction
 
+## 🚀 Project Goal
+
 ---
 
 ## 📄 License
