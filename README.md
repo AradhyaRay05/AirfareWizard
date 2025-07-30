@@ -22,17 +22,15 @@ This project uses historical flight data to predict airfare prices. It applies f
 - Calculated flight **Duration** in hours and minutes
 - Performed **One-Hot Encoding** on categorical columns: `Airline`, `Source`, `Destination`, `Additional_Info`
 - Mapped `Total_Stops` to numerical values
-- Removed redundant and irrelevant features like `Route` and `Additional_Info` where necessary
 
 ### 2. **Model Building**
 - Tried multiple models: **Linear Regression**, **Decision Tree Regressor**, **Random Forest Regressor**, and **CatBoost Regressor**
 - Chose **CatBoost Regressor** for final deployment due to:
   - Better handling of categorical data
   - Higher accuracy
-  - Faster training without extensive preprocessing
 
 ### 3. **Evaluation Metrics**
-- **R² Score (CatBoost):** `0.9048` (90.48% accuracy) on test data
+- **R² Score (CatBoost):** `0.8634` (86% accuracy) on test data
 - **Mean Absolute Error (MAE):** Used to measure prediction error
 - CatBoost outperformed other models on validation and test sets
 
