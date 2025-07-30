@@ -74,8 +74,6 @@ AirfareWizard/
 └── requirements.txt               # Python dependencies
 ```
 
-```
-
 ---
 
 ## ✨ Features
