@@ -69,7 +69,7 @@ AirfareWizard/
 ├── Flight Fare Prediction.ipynb   # EDA, preprocessing, and model training notebook
 ├── LICENSE                        # Project license
 ├── README.md                      # Project documentation
-├── 
+├── app.py                         # Streamlit app interface
 ├── model.pkl                      # Trained CatBoost model
 └── requirements.txt               # Python dependencies
 ```
