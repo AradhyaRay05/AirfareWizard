@@ -1,5 +1,4 @@
-# ✈️ AirfareWizard  
-**AI-powered flight fare predictor**
+# ✈️ AirfareWizard - AI-powered flight fare predictor
 
 ---
 
