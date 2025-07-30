@@ -41,8 +41,7 @@ This project uses historical flight data to predict airfare prices. It applies f
 - Trained model saved as `model.pkl` using Python's `pickle`
 - App handles missing model errors gracefully
 - Designed to be deployed on:
-  - **Streamlit Cloud** *(for free & quick deployment)*
-  - **Render**, **Railway**, or **Heroku** *(for advanced options)*
+  - **Streamlit Cloud**
 
 ---
 
@@ -57,7 +56,6 @@ This project uses historical flight data to predict airfare prices. It applies f
 - **Matplotlib** – data visualization  
 - **Seaborn** – statistical plots  
 - **Scikit-learn** – ML preprocessing & metrics  
-- **CatBoost** – regression model  
 - **Streamlit** – web deployment  
 - **Pickle** – model serialization  
 
