@@ -110,14 +110,7 @@ cd AirfareWizard
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
 ---
-
-## 🧑‍💻 Author
-
-**Aradhya Ray**  
-*B.Tech CSE (AI & ML), The Neotia University*  
-[LinkedIn](https://www.linkedin.com/in/aradhya-ray-4745b029a)
 
 ## 📄 License
 
