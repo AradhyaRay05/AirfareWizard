@@ -1,7 +1,5 @@
 # ✈️ AirfareWizard - AI-powered flight fare predictor
 
----
-
 ## 🧠 Project Goal
 
 **AirfareWizard** is a machine learning-based flight fare prediction system that estimates the cost of a flight ticket based on journey details provided by users. The goal is to offer intelligent pricing insights using historical data and a trained ML model through an interactive web interface.
