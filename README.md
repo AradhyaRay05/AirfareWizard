@@ -67,10 +67,10 @@ AirfareWizard/
 │   └── Test_set.xlsx
 ├── .gitignore                     # Prevents Git from tracking unnecessary files
 ├── Flight Fare Prediction.ipynb   # EDA, preprocessing, and model training notebook
-├── model.pkl                      # Trained CatBoost model
+├── LICENSE                        # Project license
 ├── app.py                         # Streamlit app interface
 ├── requirements.txt               # Python dependencies
-├── LICENSE                        # Project license
+├── model.pkl                      # Trained CatBoost model
 └── README.md                      # Project documentation
 ```
 
