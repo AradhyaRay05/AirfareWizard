@@ -94,7 +94,6 @@ AirfareWizard/
 
 ## 🌱 Future Enhancements
 
-- Deploy as a public web service (e.g., Streamlit Cloud)
 - Include **round-trip fare prediction**
 - Add **visual insights** like fare trends over months
 - Use **live API data** to recommend the best time to fly
